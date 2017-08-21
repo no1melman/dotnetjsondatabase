@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3696A801-B51A-472D-9A2D-182844898A7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElasticsearchNet.Web/ErrorHandler.cs">
+    <Files>
+      <File FileName="ElasticsearchNet.Web/Controllers/ApiController.cs" Line="31" Column="13" />
+      <File FileName="ElasticsearchNet.Web/MemoryDatabase.cs" Line="1" Column="1" />
+      <File FileName="ElasticsearchNet.Web/Program.cs" Line="1" Column="1" />
+      <File FileName="ElasticsearchNet.Web/Startup.cs" Line="35" Column="37" />
+      <File FileName="ElasticsearchNet.Web/ErrorHandler.cs" Line="30" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ElasticsearchNet" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ElasticsearchNet.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticsearchNet.Web", "ElasticsearchNet.Web\ElasticsearchNet.Web.csproj", "{3696A801-B51A-472D-9A2D-182844898A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticsearchNet.Tests", "ElasticsearchNet.Tests\ElasticsearchNet.Tests.csproj", "{52093F19-ED99-4D04-933D-B639D97542F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3696A801-B51A-472D-9A2D-182844898A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3696A801-B51A-472D-9A2D-182844898A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3696A801-B51A-472D-9A2D-182844898A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3696A801-B51A-472D-9A2D-182844898A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52093F19-ED99-4D04-933D-B639D97542F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52093F19-ED99-4D04-933D-B639D97542F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52093F19-ED99-4D04-933D-B639D97542F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52093F19-ED99-4D04-933D-B639D97542F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

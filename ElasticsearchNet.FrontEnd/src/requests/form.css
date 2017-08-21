@@ -1,0 +1,37 @@
+.form-input {
+    width: 100%;
+    margin: 5px 0 10px;
+}
+
+.form-input {
+    margin: 4px 0 10px;
+}
+
+.form-input label {
+    display: block;
+    padding: 4px;
+    margin: 5px 0;
+}
+
+.form-control input, .form-control textarea {
+    width: 100%;
+    border-bottom: 1px solid #d7dce0;
+}
+
+.form-control .btn-submit {
+    background-color: #406378;
+    color: white;
+    cursor: pointer;
+}
+
+.form-control input, .form-control textarea, .form-control button {
+    -webkit-box-shadow: 8px 8px 46px -16px rgba(0,0,0,0.75);
+    -moz-box-shadow: 8px 8px 46px -16px rgba(0,0,0,0.75);
+    box-shadow: 8px 8px 46px -16px rgba(0,0,0,0.75);
+    padding: 10px 14px;
+    background: #eee;
+    font-size: 10pt;
+    outline: none;
+    border: none;
+}
+
